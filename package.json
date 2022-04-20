@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "serverless-mocha": "^1.12.0",
+    "serverless-pseudo-parameters": "^2.6.1"
+  }
+}
